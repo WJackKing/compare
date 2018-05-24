@@ -1,0 +1,7 @@
+[package]
+name = "compare"
+version = "0.1.0"
+authors = ["WJackKing <1937026618@qq.com>"]
+
+[dependencies]
+rand = "*"
